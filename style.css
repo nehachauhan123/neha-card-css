@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: lightblue;
+}
+.container{
+    height:300px;
+    width: 300px;
+    /* border: 2px solid; */
+    margin: auto;
+    margin-top: 200px;
+    background-color: white;
+    box-shadow:50px,100px #3b3838;
+    box-shadow: 10px 10px #8888;
+    
+    
+}
+#box{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+p{
+    margin-top: 80px;
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 100px;
+   margin-left: 50px;
+   margin-top: 30px;
+}
